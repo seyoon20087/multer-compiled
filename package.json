@@ -1,5 +1,5 @@
 {
-  "name": "busboy",
+  "name": "multer",
   "version": "999.0.0",
   "description": "compiled version of `multer@1.4.4`",
   "main": "main.js",
